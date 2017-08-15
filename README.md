@@ -10,3 +10,9 @@ this:
             (__)\       )\/\
                 ||----w |
                 ||     ||
+
+handy notes:
+vim has a cool encryption feature
+git show <commit-id> is useful
+git log --pretty=oneline --abbrev-commit  shows all the git commits in a consistent way and easy to read commit messages.
+
